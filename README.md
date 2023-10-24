@@ -17,7 +17,7 @@ As bibliotecas utilizadas:
 - mlxtend
 
 
-<h1> <img height="40" width="40" src= "https://github.com/Texugo-928/Projeto_ML_Churn/assets/89808695/29b321fd-990f-45e3-b877-20c21e606cdc" />  Grupo 03 </h1>
+<h1> <img height="40" width="40" src= "https://github.com/Texugo-928/Projeto_ML_Churn/assets/89808695/29b321fd-990f-45e3-b877-20c21e606cdc" />  Grupo 04 </h1>
 
 |   **Cicero Junior**   |  **Jorge Dantas**  |  **Mohara** |  **Nathália Martins**  | Pedro Leal |
 | ---------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
